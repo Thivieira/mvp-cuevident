@@ -1,0 +1,19 @@
+Issue Type,Summary,Description,Priority,Story Points,Epic Name,Epic Link,Labels
+Epic,EP01 - Análise de vídeo,Permitir que usuários criem análises a partir de vídeos longos.,Highest,,EP01 - Análise de vídeo,,MVP
+Story,US01 - Criar nova análise por URL,"Como editor, quero cadastrar uma URL de vídeo para iniciar uma análise de cortes. Nesta sprint o processamento será simulado com dados fictícios.",Highest,5,,EP01 - Análise de vídeo,Sprint1
+Story,US02 - Visualizar progresso da análise,"Como editor, quero ver o status da análise para saber quando as sugestões estarão disponíveis.",Highest,3,,EP01 - Análise de vídeo,Sprint1
+Epic,EP02 - Curadoria de sugestões,Apresentar sugestões ranqueadas de clipes para revisão humana.,Highest,,EP02 - Curadoria de sugestões,,MVP
+Story,US03 - Revisar sugestões ranqueadas,"Como editor, quero visualizar clipes sugeridos com score e motivo para priorizar minha revisão.",Highest,5,,EP02 - Curadoria de sugestões,Sprint1
+Story,US04 - Aceitar ou rejeitar clipes,"Como editor, quero marcar sugestões como aceitas ou rejeitadas para formar uma seleção.",Highest,3,,EP02 - Curadoria de sugestões,Sprint1
+Story,US05 - Ajustar início e fim do clipe,"Como editor, quero alterar início e fim de um clipe para refinar a sugestão.",Highest,5,,EP02 - Curadoria de sugestões,Sprint1
+Epic,EP03 - Organização e exportação,Organizar clipes aprovados e gerar um plano simples de publicação.,High,,EP03 - Organização e exportação,,MVP
+Story,US06 - Exportar plano simples de cortes,"Como gestora de canal, quero exportar uma lista de cortes aprovados para orientar a edição/publicação.",Highest,3,,EP03 - Organização e exportação,Sprint1
+Story,EN01 - Criar dataset fictício seguro,"Como time de produto, quero dados fictícios para demonstrar o MVP sem expor vídeos, clientes, canais ou métricas reais. (Enabler)",Highest,3,,EP01 - Análise de vídeo,Sprint1
+Story,EN02 - Criar wireframes de baixa fidelidade,"Como time de produto, quero wireframes de baixa fidelidade no Figma para validar forma e fluxo antes de evoluir a interface. (Enabler)",Highest,3,,EP02 - Curadoria de sugestões,Sprint1
+Task,FT04 - Projeto de clipes salvos,Salvar clipes aceitos em um projeto de entrega. Item emergente do MVP ainda não detalhado.,High,,,EP03 - Organização e exportação,MVP
+Epic,EP04 - Embalagem do clipe,"Evoluir sugestões de título, hook, legenda e conceito de thumbnail. Incremento futuro em alto nível.",Medium,,EP04 - Embalagem do clipe,,Incremento2
+Task,FT05 - Título e hook sugeridos,Sugerir alternativas de título e hook para cada corte aprovado.,Medium,,,EP04 - Embalagem do clipe,Incremento2
+Task,FT06 - Thumbnail conceitual,"Sugerir direção visual de thumbnail, sem integração real.",Low,,,EP04 - Embalagem do clipe,Incremento2
+Epic,EP05 - Aprendizado e integrações,Usar feedback humano e métricas pós-publicação para melhorar o ranking. Incremento futuro em alto nível.,Low,,EP05 - Aprendizado e integrações,,Incremento3
+Task,FT07 - Métricas pós-publicação,"Registrar views, retenção e taxa de aceite manualmente.",Low,,,EP05 - Aprendizado e integrações,Incremento3
+Task,FT08 - Publicação assistida,Preparar integrações futuras com provedores externos de forma segura.,Low,,,EP05 - Aprendizado e integrações,Incremento3

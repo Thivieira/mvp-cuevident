@@ -1,0 +1,95 @@
+ROTEIRO DO VÍDEO DE APRESENTAÇÃO — MVP CueVident Acadêmico
+Duração alvo: 3 minutos (limite: 2 a 4 min)
+Formato: gravação de tela (Miro, PDFs, wireframes) com narração.
+Dica: grave em uma tomada só. Errou uma palavra? Continua. Não precisa ser perfeito.
+
+------------------------------------------------------------
+[0:00–0:20] ABERTURA + PROBLEMA
+Na tela: slide/README com o nome do produto.
+
+"Olá, meu nome é Thiago e este é o CueVident Acadêmico, minha entrega
+para a sprint de Gestão Ágil de Projetos e Produtos.
+
+O problema é simples de reconhecer: quem trabalha com conteúdo — criadores,
+editores, social medias — grava vídeos longos e depois perde horas assistindo
+tudo de novo só para achar os trechos que valem virar cortes para redes sociais."
+
+------------------------------------------------------------
+[0:20–0:45] SOLUÇÃO
+Na tela: wireframe 04 (editor de sugestões).
+
+"A proposta é uma ferramenta de curadoria assistida. O usuário cadastra um
+vídeo por URL, acompanha a análise e recebe uma lista ranqueada de sugestões
+de cortes — cada uma com score e com o motivo da sugestão. Ele aceita ou
+rejeita, ajusta início e fim, e exporta um plano simples de cortes.
+
+O ponto central: o sistema sugere e organiza, mas quem decide é o humano."
+
+------------------------------------------------------------
+[0:45–1:25] LEAN INCEPTION + MVP CANVAS
+Na tela: navegue pelo board do Miro (visão geral → visão → sequenciador → MVP Canvas).
+
+"No Miro, conduzi a Lean Inception com o template do Paulo Caroli. Defini o
+contexto de negócio, stakeholders, usuários e um time Scrum enxuto.
+
+A visão do produto foca em reduzir o tempo até a primeira seleção de cortes.
+Nas personas, o principal é o Rafael, editor freelancer que recebe vídeos
+longos de clientes.
+
+Depois do brainstorming de features, a revisão técnica, de negócio e UX
+classificou cada uma pela clareza do que fazer e de como fazer — por isso IA
+real e integrações externas ficaram vermelhas e fora do MVP.
+
+No sequenciador, organizei as ondas de entrega, e o MVP Canvas fecha com a
+proposta, as métricas de validação e os aprendizados esperados."
+
+------------------------------------------------------------
+[1:25–2:00] PRODUCT BACKLOG
+Na tela: product-backlog.pdf (role devagar) e, se tiver, print do Jira.
+
+"O Product Backlog foi construído no Jira, em um projeto Scrum. Ele é
+emergente: três épicos do MVP com features e histórias detalhadas, e dois
+épicos de incrementos futuros que ficam propositalmente em alto nível —
+embalagem do clipe e aprendizado com integrações.
+
+O documento traz também a Definition of Ready, a Definition of Done e cinco
+requisitos não funcionais: usabilidade, responsividade, segurança e
+privacidade, performance e acessibilidade mínima."
+
+------------------------------------------------------------
+[2:00–2:30] SPRINT BACKLOG
+Na tela: sprint-backlog.pdf (mostre uma história completa, ex.: US01).
+
+"Para a Sprint 1, a meta é validar o fluxo principal de ponta a ponta com
+dados fictícios. São seis histórias de usuário e dois enablers, totalizando
+trinta story points. Cada história tem descrição no formato 'como, quero,
+para', prioridade, estimativa, dependências e critérios de aceitação
+escritos em 'dado, quando, então'."
+
+------------------------------------------------------------
+[2:30–2:50] WIREFRAMES
+Na tela: passe pelas 5 imagens na ordem do fluxo.
+
+"No Figma, criei cinco wireframes de baixa fidelidade cobrindo o fluxo da
+Sprint 1: dashboard, nova análise, processamento, o editor de sugestões — que
+é o coração do produto — e a exportação do plano de cortes."
+
+------------------------------------------------------------
+[2:50–3:10] APRENDIZADO ESPERADO + FECHAMENTO
+Na tela: MVP Canvas (bloco de métricas/aprendizados) ou README.
+
+"Com esse MVP, quero aprender se a curadoria assistida realmente economiza
+tempo e gera confiança suficiente para o editor aceitar as sugestões — antes
+de investir em IA real, editor completo e publicação automática.
+
+Todos os artefatos estão no repositório público do GitHub. Obrigado!"
+
+------------------------------------------------------------
+CHECKLIST DE GRAVAÇÃO
+[ ] Miro aberto e carregado antes de gravar (zoom confortável)
+[ ] PDFs abertos em abas/janelas prontas
+[ ] Wireframes abertos em sequência (ou a pasta no GitHub)
+[ ] Microfone testado, sem ruído de fundo
+[ ] Duração final entre 2:00 e 4:00
+[ ] Upload no YouTube (não listado) ou Drive com link "qualquer pessoa com o link"
+[ ] Testar o link do vídeo em aba anônima

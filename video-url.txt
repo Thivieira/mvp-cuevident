@@ -1,0 +1,4 @@
+SUBSTITUA pela URL do vídeo de apresentação antes do commit final.
+Exemplo: https://youtu.be/... (não listado) ou link do Drive com acesso "qualquer pessoa com o link".
+
+Teste obrigatório: abrir em aba anônima.

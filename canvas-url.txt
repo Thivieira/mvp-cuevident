@@ -1,0 +1,4 @@
+SUBSTITUA pela URL pública (view-only) do board do Miro antes do commit final.
+Exemplo: https://miro.com/app/board/SEU_BOARD_ID/
+
+Teste obrigatório: abrir em aba anônima.
