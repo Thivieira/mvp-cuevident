@@ -1,6 +1,6 @@
 # Descrição dos wireframes
 
-Wireframes de baixa fidelidade criados no Figma, cobrindo o fluxo principal da Sprint 1 do MVP CueVident Acadêmico. Todos os dados exibidos são fictícios.
+Wireframes de baixa fidelidade criados no Figma, cobrindo o fluxo principal da Sprint 1 do CueVident. Todos os dados exibidos são fictícios.
 
 ## 01-dashboard.png — Dashboard
 Tela inicial do produto. Mostra o resumo das análises (aguardando, processando, concluídas), a lista de projetos recentes com status e a ação principal **+ Nova análise**. Inclui estado vazio para o primeiro acesso.

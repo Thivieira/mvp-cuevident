@@ -1,4 +1,4 @@
-# Conteúdo para o Miro — Lean Inception CueVident Acadêmico
+# Conteúdo para o Miro — Lean Inception CueVident
 
 > Use o template Miroverse **Lean Inception Workshop (Paulo Caroli)**. O template pode estar em inglês; preencha em português. Cada bullet abaixo vira um post-it. Textos curtos de propósito.
 
@@ -8,7 +8,7 @@
 
 Post-it de abertura (pode ser um card de texto maior):
 
-> Criadores, editores e equipes de conteúdo precisam transformar vídeos longos em cortes curtos para redes sociais. Hoje isso exige assistir o vídeo inteiro, anotar bons momentos, decidir onde cortar e organizar tudo para edição e publicação. O CueVident Acadêmico propõe uma curadoria assistida: sair de "tenho um vídeo longo" para "tenho uma lista inicial de cortes aprovados".
+> Criadores, editores e equipes de conteúdo precisam transformar vídeos longos em cortes curtos para redes sociais. Hoje isso exige assistir o vídeo inteiro, anotar bons momentos, decidir onde cortar e organizar tudo para edição e publicação. O CueVident propõe uma curadoria assistida: sair de "tenho um vídeo longo" para "tenho uma lista inicial de cortes aprovados".
 
 ---
 
@@ -46,7 +46,7 @@ Um post-it por stakeholder (nome + interesse curto):
 
 ## 5. Visão do Produto (Product Vision)
 
-> **Para** criadores de conteúdo, editores e social medias **que** precisam reaproveitar vídeos longos, **o** CueVident Acadêmico **é uma** ferramenta de curadoria de cortes **que** sugere momentos promissores, explica o motivo e ajuda a organizar os melhores clipes para publicação. **Diferente da** triagem manual completa do vídeo, **nosso produto** reduz o tempo até a primeira seleção de cortes e mantém o humano no controle da decisão final.
+> **Para** criadores de conteúdo, editores e social medias **que** precisam reaproveitar vídeos longos, **o** CueVident **é uma** ferramenta de curadoria de cortes **que** sugere momentos promissores, explica o motivo e ajuda a organizar os melhores clipes para publicação. **Diferente da** triagem manual completa do vídeo, **nosso produto** reduz o tempo até a primeira seleção de cortes e mantém o humano no controle da decisão final.
 
 ---
 
@@ -100,7 +100,7 @@ Um post-it por stakeholder (nome + interesse curto):
 Um post-it por passo:
 
 1. Recebe um vídeo longo do cliente
-2. Acessa o CueVident Acadêmico
+2. Acessa o CueVident
 3. Cria uma nova análise por URL
 4. Acompanha o status do processamento
 5. Abre a lista de sugestões ranqueadas

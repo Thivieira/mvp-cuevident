@@ -4,7 +4,7 @@
 
 ## Setup (5 min)
 
-1. Novo arquivo Figma: **CueVident Acadêmico — Wireframes MVP**.
+1. Novo arquivo Figma: **CueVident — Wireframes MVP**.
 2. Crie 5 frames Desktop (1440 × 1000). Nomeie exatamente:
    - `01-dashboard`
    - `02-nova-analise`

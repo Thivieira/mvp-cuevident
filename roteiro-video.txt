@@ -1,4 +1,4 @@
-ROTEIRO DO VÍDEO DE APRESENTAÇÃO — MVP CueVident Acadêmico
+ROTEIRO DO VÍDEO DE APRESENTAÇÃO — CueVident
 Duração alvo: 3 minutos (limite: 2 a 4 min)
 Formato: gravação de tela (Miro, PDFs, wireframes) com narração.
 Dica: grave em uma tomada só. Errou uma palavra? Continua. Não precisa ser perfeito.
@@ -7,7 +7,7 @@ Dica: grave em uma tomada só. Errou uma palavra? Continua. Não precisa ser per
 [0:00–0:20] ABERTURA + PROBLEMA
 Na tela: slide/README com o nome do produto.
 
-"Olá, meu nome é Thiago e este é o CueVident Acadêmico, minha entrega
+"Olá, meu nome é Thiago e este é o CueVident, minha entrega
 para a sprint de Gestão Ágil de Projetos e Produtos.
 
 O problema é simples de reconhecer: quem trabalha com conteúdo — criadores,

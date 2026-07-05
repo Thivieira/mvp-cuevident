@@ -1,4 +1,4 @@
-# MVP CueVident Acadêmico
+# CueVident (versão acadêmica do MVP)
 
 Entrega da Sprint **Gestão Ágil de Projetos e Produtos** — Pós-graduação em Engenharia de Software, PUC-Rio.
 
@@ -10,7 +10,7 @@ Criadores de conteúdo, editores de vídeo e social medias gastam muito tempo as
 
 ## A solução proposta
 
-O **CueVident Acadêmico** é uma proposta de plataforma de **curadoria assistida de cortes**. No MVP, o usuário:
+O **CueVident** é uma proposta de plataforma de **curadoria assistida de cortes**. No MVP, o usuário:
 
 1. Cadastra um vídeo por URL;
 2. Acompanha o status de uma análise simulada;
