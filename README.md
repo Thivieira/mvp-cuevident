@@ -35,6 +35,8 @@ Validar o fluxo principal com dados fictícios: criação de análise por URL, a
 | `canvas-url.txt` | Link público (view-only) do board do Miro com a Lean Inception completa e o MVP Canvas |
 | `product-backlog.pdf` | Product Backlog emergente construído no Jira (projeto Scrum), com Definition of Ready, Definition of Done e requisitos não funcionais |
 | `sprint-backlog.pdf` | Sprint Backlog da Sprint 1, com histórias detalhadas, estimativas em story points e critérios de aceitação |
+| `jira-screenshot.png` | Print do projeto Scrum no Jira com o backlog construído |
+| `jira-import-cuevident.csv` | CSV de importação usado para montar o backlog no Jira |
 | `wireframes/` | Imagens dos wireframes de baixa fidelidade exportadas do Figma |
 | `video-url.txt` | Link do vídeo de apresentação (2 a 4 minutos) |
 
@@ -44,7 +46,11 @@ Validar o fluxo principal com dados fictícios: criação de análise por URL, a
 .
 ├── README.md
 ├── canvas-url.txt
+├── jira-import-cuevident.csv
+├── jira-screenshot.png
+├── miro-conteudo-lean-inception.md
 ├── product-backlog.pdf
+├── roteiro-video.txt
 ├── sprint-backlog.pdf
 ├── video-url.txt
 └── wireframes/
